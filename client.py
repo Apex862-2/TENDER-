@@ -5,7 +5,7 @@ import os
 SEPARATOR = "<SEPARATOR>"
 BUFFER_SIZE = 4096
 
-host = "192.168.0.105"
+host = "rec addr"
 port = 5671
 
 filename = input("[+]filename: ")
