@@ -1,7 +1,7 @@
 import socket
 import tqdm
 import os
-SERVER_HOST = "192.168.0.102"
+SERVER_HOST = "rec addr"
 SERVER_PORT = 5671
 BUFFER_SIZE = 4096
 SEPARATOR = "<SEPARATOR>"
